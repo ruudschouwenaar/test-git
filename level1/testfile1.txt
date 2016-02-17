@@ -6,3 +6,5 @@ Let's see what happened
 Made a branch called 'dev' and edited this file while on this branch
 More changes on dev, not fast-forwarding this time when merging
 Removing all blank lines
+
+Interesting... I don't see the change I made on master
