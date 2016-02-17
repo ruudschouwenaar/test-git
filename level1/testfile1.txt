@@ -1,0 +1,7 @@
+This is a test file
+Changes have been made
+And more changes
+
+Now for some diff analysis: change change change :)
+
+Let's see what happened
