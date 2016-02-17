@@ -7,3 +7,5 @@ Now for some diff analysis: change change change :)
 Let's see what happened
 
 Made a branch called 'dev' and edited this file while on this branch
+
+More changes on dev, not fast-forwarding this time when merging
