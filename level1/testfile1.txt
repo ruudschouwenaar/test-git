@@ -5,3 +5,5 @@ And more changes
 Now for some diff analysis: change change change :)
 
 Let's see what happened
+
+File has been changed remotely. Let's see if this gets noticed by the git pull command.
